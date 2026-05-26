@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Reset Password",
+    "content": "Users can reset their password from Settings > Security. Click on 'Change Password', verify your old password, and enter a new strong password containing at least 8 characters, a number, and a special character."
+  },
+  {
+    "title": "Account Deletion",
+    "content": "Users can delete their account permanently from Account Settings > Danger Zone. Once requested, your account data will be wiped out within 14 business days. This action is irreversible."
+  },
+  {
+    "title": "Two-Factor Authentication",
+    "content": "Enable Two-Factor Authentication (2FA) by navigating to Settings > Security > Two-Factor Authentication. You can use authenticator apps like Google Authenticator or Authy to scan the QR code."
+  },
+  {
+    "title": "Refund Policy",
+    "content": "We offer a 30-day money-back guarantee for all subscription plans. If you are unsatisfied, contact billing support to request a full refund within 30 days of purchase."
+  }
+]
